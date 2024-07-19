@@ -1,5 +1,5 @@
 # SendWhatsappScript
-literally source code of a part of Matt Fontes's SendScriptWhatsApp JS script, you can customize the text wherever you want it to be.
+literally source code of a part of [Matt Fontes's SendScriptWhatsApp JS script](https://github.com/Matt-Fontes/SendScriptWhatsApp), you can customize the text wherever you want it to be.
 | DUE TO CHROME'S NEW UPDATE, YOU CANT USE THE SCRIPT ANYMORE.
 |--|
 |*HOWEVER, YOU CAN USE allow-scripts TO MAKE A WORKAROUND OF IT.*
