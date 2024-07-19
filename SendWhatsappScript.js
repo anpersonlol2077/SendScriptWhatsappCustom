@@ -24,4 +24,4 @@ async function enviarScript(scriptText){
 
 enviarScript(`
 text here
-`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
+`).then(e => console.log(`finished! :3, ${e} sent messages. :D`)).catch(console.error)
