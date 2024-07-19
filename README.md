@@ -5,4 +5,8 @@ literally source code of a part of Matt Fontes's SendScriptWhatsApp JS script, y
 |*HOWEVER, YOU CAN USE allow-scripts TO MAKE A WORKAROUND OF IT.*
 |*AFTER THAT, COPY THE SCRIPT LIKE NORMAL AND ADD YOUR TEXT.*
 
+## ultilization
+- open the console of your browser (right click on the camera thingy on whatsapp -> inspect -> console)
+- copy the script, and on the *"text here"* put the text you want to
+
 *enjoy ;)*
