@@ -3,7 +3,7 @@ async function sendScript(scriptText){
 	main = document.querySelector("#main"),
 	textarea = main.querySelector(`div[contenteditable="true"]`)
 	
-	if(!textarea) throw new Error("Não há uma conversa aberta")
+	if(!textarea) throw new Error("a contact to send this message is not open. D:")
 	
 	for(const line of lines){
 		console.log(line)
