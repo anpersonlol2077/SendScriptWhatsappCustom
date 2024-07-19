@@ -1,4 +1,4 @@
-async function enviarScript(scriptText){
+async function sendScript(scriptText){
 	const lines = scriptText.split(/[\n\t]+/).map(line => line.trim()).filter(line => line);
 	main = document.querySelector("#main"),
 	textarea = main.querySelector(`div[contenteditable="true"]`)
@@ -22,6 +22,6 @@ async function enviarScript(scriptText){
 	return lines.length;
 }
 
-enviarScript(`
+sendScript(`
 text here
 `).then(e => console.log(`finished! :3, ${e} sent messages. :D`)).catch(console.error)
